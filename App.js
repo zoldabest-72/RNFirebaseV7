@@ -1,4 +1,3 @@
-import { styles } from 'ansi-colors';
 import React, {useEffect} from 'react';
 import {View, StyleSheet, Text, Button} from 'react-native';
 import { fcmService } from './src/FCMService';
