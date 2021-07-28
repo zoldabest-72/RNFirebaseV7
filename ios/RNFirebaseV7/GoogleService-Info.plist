@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>937386203961-qdaelgbuto7nd730c11s36a3ha3sg7pm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.937386203961-qdaelgbuto7nd730c11s36a3ha3sg7pm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0L8VED77ztfaI_y_0DpXCmkO3pKP8NKE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>937386203961</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rnfirebasev7</string>
+	<key>PROJECT_ID</key>
+	<string>chat-noti</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-noti.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:937386203961:ios:04c4ad8b8c639ddd9126e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://chat-noti-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
